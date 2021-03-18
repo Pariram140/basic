@@ -1,2 +1,4 @@
 # basic
-starting
+public class Demo
+{
+}
