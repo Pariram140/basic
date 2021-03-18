@@ -1,2 +1,8 @@
 # basic
-starting
+public class Demo
+{
+
+public static void main(String s[])
+{
+}
+}
